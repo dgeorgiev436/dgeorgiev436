@@ -1,6 +1,5 @@
 ### Hello World! Here is what I am working on! 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Building a fitness web application
 - 🌱 I’m currently learning ... Node.js, React.js
